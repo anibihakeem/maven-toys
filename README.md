@@ -50,4 +50,7 @@ From the stores table;
 ![Rev per store](https://user-images.githubusercontent.com/105971924/208593383-dee1b63d-2bab-4776-b61f-ddf0e9e8b8b6.png)
 
 ### Visualization
-[Maven Toys](https://app.powerbi.com/groups/me/reports/b27f6665-2510-404b-8efe-9b333abf19ce/ReportSectionddee030f024fa71e754f)
+[Maven Toys Report Link](https://app.powerbi.com/groups/me/reports/b27f6665-2510-404b-8efe-9b333abf19ce/ReportSectionddee030f024fa71e754f)
+
+### General Insights
+* A total Revenue of $14.44m was made in 50 stores across 20 cities with a profit of $4.01m.
