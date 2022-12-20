@@ -14,6 +14,10 @@ The following questions are the "whats" of the project:
 ### Data Sourcing
 The dataset was gotten from [Kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/toy-sales) including information about products, stores, daily sales transactions, and current inventory levels
 
-### Extraction Transformation and Laoding (ETL) and Data Cleaning
-Upon extracting the dataset to local machine, the dataset was imported into powerbi power query for Transformation 
+### Extraction Transformation and Loading (ETL) and Data Cleaning
+Upon extracting the dataset to local machine, the dataset was imported into powerbi power query for Transformation. Duplicates, nulls and blanks were removed, typo errors were corrected and columns were formatted to the appropriate format.
+
+### Data Analysis
+
+* From the sales table 
 
