@@ -17,6 +17,10 @@ The dataset was gotten from [Kaggle](https://www.kaggle.com/datasets/mysarahmadb
 ### Extraction Transformation and Loading (ETL) and Data Cleaning
 Upon extracting the dataset to local machine, the dataset was imported into powerbi power query for Transformation. Duplicates, nulls and blanks were removed, typo errors were corrected and columns were formatted to the appropriate format.
 
+### Data Modelling
+
+![Screenshot (67)](https://user-images.githubusercontent.com/105971924/208606726-3f146d51-650b-40dd-92f1-7f8b1e89b2c6.png)
+
 ### Data Analysis
 
 From the sales table the following were calculated using DAX;
@@ -45,3 +49,4 @@ From the stores table;
 * Average Revenue per store
 ![Rev per store](https://user-images.githubusercontent.com/105971924/208593383-dee1b63d-2bab-4776-b61f-ddf0e9e8b8b6.png)
 
+### Visualization
