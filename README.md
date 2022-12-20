@@ -27,4 +27,16 @@ From the sales table the following were calculated using DAX
 * Total Profit
  ![Profit](https://user-images.githubusercontent.com/105971924/208592140-223dee81-67af-445b-a5a4-7609041df369.png)
 * Gross Profit Margin
-* ![GPM](https://user-images.githubusercontent.com/105971924/208592196-2314ecca-373d-410c-aaf3-61ed593400e3.png)
+![GPM](https://user-images.githubusercontent.com/105971924/208592196-2314ecca-373d-410c-aaf3-61ed593400e3.png)
+* Avg. Transaction Value
+![ATV](https://user-images.githubusercontent.com/105971924/208592455-2a565e8a-6f37-4562-84fa-6fa9186f4341.png)
+* Avg. Unit sold
+![AUS](https://user-images.githubusercontent.com/105971924/208592926-f1d00946-64bb-4096-b466-eff9c1a0d9b2.png)
+
+From the stores table;
+* Distint count of Stores
+* Distint count of Locations
+* Total count of sales made
+* Average Revenue per store
+![Rev per store](https://user-images.githubusercontent.com/105971924/208593383-dee1b63d-2bab-4776-b61f-ddf0e9e8b8b6.png)
+
