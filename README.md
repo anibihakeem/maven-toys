@@ -21,7 +21,7 @@ Upon extracting the dataset to local machine, the dataset was imported into powe
 
 From the sales table the following were calculated using DAX;
 * Total Revenue
-![Total Revenue](https://user-images.githubusercontent.com/105971924/208591855-8f8d497c-e66d-4de9-b2d7-9ef956531abf.png)
+** ![Total Revenue](https://user-images.githubusercontent.com/105971924/208591855-8f8d497c-e66d-4de9-b2d7-9ef956531abf.png)
 
 * Total Cost
 ![Total Cost](https://user-images.githubusercontent.com/105971924/208591899-67f37aed-e794-4fc9-8b41-0b310a9265bb.png)
