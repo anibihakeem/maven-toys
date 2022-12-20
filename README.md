@@ -37,6 +37,7 @@ From the sales table the following were calculated using DAX;
 
 * Avg. Unit sold
 * [AUS](https://user-images.githubusercontent.com/105971924/208592926-f1d00946-64bb-4096-b466-eff9c1a0d9b2.png)
+![AUS](https://user-images.githubusercontent.com/105971924/208604223-b2824aa2-3193-4c96-9de8-bea5f9a5caea.png)
 
 From the stores table;
 * Distinct count of Stores
