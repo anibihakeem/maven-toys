@@ -52,5 +52,8 @@ From the stores table;
 ### Visualization
 [Maven Toys Report Link](https://app.powerbi.com/groups/me/reports/b27f6665-2510-404b-8efe-9b333abf19ce/ReportSectionddee030f024fa71e754f)
 
-### General Insights
+### General Insights and Recommendations
 * A total Revenue of $14.44m was made in 50 stores across 20 cities with a profit of $4.01m.
+* Airport Location has least number of opened stores; '3', and generates an average revenue of  $429,907.53 USD, the largest revenue per store amongst other locations. Furthermore, a customer spends an average of $19 on a transaction, which is $2 USD more, compared to residential and downtown locations. Downtown Location can also be considered as it generates the second highest revenue of $238,434.35 USD.
+* The Toy Category generated a revenue of over $5,000,000 USD and also a profit of over $1,000,000 USD was made from and this can be attributed to the sale of Lego Brick; making it the best selling product category.  Art & Crafts is the second best selling product  category with a revenue of over $2,700,000 USD.
+* December recorded the highest revenue $877,203 and August recorded the least revenue generated. Discounts and promo can be offered during this month. Total Revenue increased the most in March compared to the previous year by $293,030 USD. Consider opening new stores within the months of April, May, June and December. 
